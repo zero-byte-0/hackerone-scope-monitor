@@ -8,12 +8,12 @@ from telegram_notify import TelegramBot
 
 
 
-H1_USERNAME = "zerobyte0"
-H1_TOKEN = "svt70zOM1GbDyvTC6J93Kkz4fN26YHAP2+eyvMAfbm8="
+H1_USERNAME = "HACKERONE_USERNAME"
+H1_TOKEN = "HACKERONE_TOKEN"
 
 
-TG_TOKEN = "8241362072:AAHoeFJEEwUWukyqYJiPooTvAO3czh7FGfU"
-TG_CHAT_ID = "1197666055"
+TG_TOKEN = "TELEGTRAM_BOT_TOKEN"
+TG_CHAT_ID = "TELEGRAM_BOT_CHAT_ID"
 
 SNAPSHOT = Path("data/hackerone_snapshot.json")
 
